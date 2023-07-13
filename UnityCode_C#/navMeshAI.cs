@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
-public class NavMeshAI : MonoBehaviour
+public class navMeshAI : MonoBehaviour
 {
     public enum EnemyState
     {
