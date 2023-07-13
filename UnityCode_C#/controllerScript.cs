@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ControllerScript : MonoBehaviour
+public class controllerScript : MonoBehaviour
 {
     public GameObject spaceship;
     public Material mat;
